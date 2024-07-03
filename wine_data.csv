@@ -1,0 +1,11 @@
+Id,Name,Description,Category,Type,Country,Vintage,Winery
+1,Merlot,Rich and velvety red wine,Red,Varietal,France,2018,Winery A
+2,Chardonnay,Fresh and fruity white wine,White,Varietal,USA,2019,Winery B
+3,Pinot Noir,Delicate and complex red wine,Red,Varietal,Italy,2020,Winery C
+4,Sauvignon Blanc,Crisp and aromatic white wine,White,Varietal,New Zealand,2021,Winery D
+5,Shiraz,Spicy and bold red wine,Red,Varietal,Australia,2017,Winery E
+6,Riesling,Sweet and floral white wine,White,Varietal,Germany,2016,Winery F
+7,Zinfandel,Robust and fruity red wine,Red,Varietal,USA,2019,Winery G
+8,Malbec,Full-bodied and rich red wine,Red,Varietal,Argentina,2020,Winery H
+9,Prosecco,Light and bubbly white wine,White,Sparkling,Italy,2021,Winery I
+10,Cabernet Sauvignon,Deep and intense red wine,Red,Varietal,France,2018,Winery J

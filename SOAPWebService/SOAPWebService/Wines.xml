@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Wine>
+    <Id>500</Id>
+    <Name>Test</Name>
+    <Description>Prince Royce</Description>
+    <Category>Merlot</Category>
+    <Type>Red</Type>
+    <Country>Hrvatska</Country>
+    <Vintage>2020</Vintage>
+    <Winery>Josić</Winery>
+  </Wine>
+  <Wine>
+    <Id>250</Id>
+    <Name>Test</Name>
+    <Description>Prince Royce</Description>
+    <Category>Merlot</Category>
+    <Type>Red</Type>
+    <Country>Hrvatska</Country>
+    <Vintage>2020</Vintage>
+    <Winery>Josić</Winery>
+  </Wine>
+  <Wine>
+    <Id>567</Id>
+    <Name>Test</Name>
+    <Description>Projekt Infoeduka iz kolegija Projektni razvoj aplikacija</Description>
+    <Category>Merlot</Category>
+    <Type>Red</Type>
+    <Country>Hrvatska</Country>
+    <Vintage>2020</Vintage>
+    <Winery>Josić</Winery>
+  </Wine>
+</ArrayOfWine>

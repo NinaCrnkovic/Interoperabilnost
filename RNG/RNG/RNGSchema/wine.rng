@@ -1,0 +1,39 @@
+﻿<element name="Wine"
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <element name="Id">
+        <data type="positiveInteger"/>
+    </element>
+    <element name="Name">
+        <data type="string"/>
+    </element>
+    <element name="Description">
+        <data type="string">
+            <param name="minLength">2</param>
+        </data>
+    </element>
+    <element name="Category">
+        <data type="string">
+            <param name="minLength">2</param>
+        </data>
+    </element>
+    <element name="Type">
+        <data type="string">
+            <param name="minLength">2</param>
+        </data>
+    </element>
+    <element name="Country">
+        <data type="string">
+            <param name="minLength">2</param>
+        </data>
+    </element>
+    <element name="Vintage">
+        <data type="positiveInteger"/>
+    </element>
+    <element name="Winery">
+        <data type="string">
+            <param name="minLength">2</param>
+        </data>
+    </element>
+</element>
+

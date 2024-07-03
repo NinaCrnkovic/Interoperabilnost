@@ -1,0 +1,41 @@
+﻿@model List<WineClientApplication.Models.Wine>
+
+@{
+    ViewData["Title"] = "Wine List";
+}
+
+<h2>Wine List</h2>
+
+<div class="alert alert-info" role="alert" @(ViewBag.Message != null ? "" : "hidden")>
+    @ViewBag.Message
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Type</th>
+            <th>Country</th>
+            <th>Vintage</th>
+            <th>Winery</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var wine in Model)
+        {
+            <tr>
+                <td>@wine.Id</td>
+                <td>@wine.Name</td>
+                <td>@wine.Description</td>
+                <td>@wine.Category</td>
+                <td>@wine.Type</td>
+                <td>@wine.Country</td>
+                <td>@wine.Vintage</td>
+                <td>@wine.Winery</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WineClientApplication
+build_property.RootNamespace = WineClientApplication
+build_property.ProjectDir = C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\WineClientApplication\WineClientApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\WineClientApplication\WineClientApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Home/RestApiIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN0QXBpSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/RestApi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdEFwaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/RestApi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdEFwaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/RestApi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdEFwaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/RestApi/RestIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdEFwaVxSZXN0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Rng/RngAddWine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm5nXFJuZ0FkZFdpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Rng/RngGetWines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm5nXFJuZ0dldFdpbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Soap/AddWine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxBZGRXaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Soap/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Soap/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Xsd/AddWine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHNkXEFkZFdpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Xsd/GetWines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHNkXEdldFdpbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38598/Documents/Faks/5. semestar 2003-2004/Interoperabilnost/Projekt/WineClientApplication/WineClientApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mi5nt6ds7b

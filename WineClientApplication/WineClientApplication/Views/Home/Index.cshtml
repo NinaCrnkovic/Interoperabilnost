@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container">
+    <h1>Service Manager</h1>
+    <div class="buttons">
+        <a asp-controller="Xsd" asp-action="AddWine" class="btn">XSD Add</a>
+        <a asp-controller="Xsd" asp-action="GetWines" class="btn">XSD Get</a>
+        <a asp-controller="Rng" asp-action="RngAddWine" class="btn btn-primary">RNG Add</a>
+        <a asp-controller="Rng" asp-action="RngGetWines" class="btn btn-secondary">RNG Get</a>
+        <a asp-controller="Soap" asp-action="AddWine" class="btn">SOAP Add</a>
+        <a asp-controller="Soap" asp-action="Search" class="btn">SOAP Search</a>
+        <a href="#" class="btn">DHMZ RPC</a>
+        <a asp-controller="Home" asp-action="RestApi" class="btn btn-info">REST API</a>
+    </div>
+    <div class="image-container">
+        <img src="~/images/home.png" alt="Wine client app">
+    </div>
+</div>

@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Search Wine";
+}
+
+<h2>Search Wine</h2>
+
+<form asp-action="Search" method="post">
+    <div class="form-group">
+        <label for="wineName">Wine Name</label>
+        <input type="text" class="form-control" id="wineName" name="wineName" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<div class="alert alert-info" role="alert" @(ViewBag.Message != null ? "" : "hidden")>
+    @ViewBag.Message
+</div>

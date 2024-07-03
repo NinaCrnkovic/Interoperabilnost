@@ -1,0 +1,135 @@
+body {
+    background-color: #fff9e6; /* Žuækasta pozadina */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    nav ul li {
+        display: inline;
+        margin-right: 10px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+            font-size: 18px;
+        }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #8B0000; /* Boja vina */
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #8B0000; /* Boja vina */
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+    .btn:hover {
+        background-color: #a30000;
+    }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+    .image-container img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #8B0000; /* Boja vina */
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.control-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    background-color: #8B0000; /* Boja vina */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+    .btn:hover {
+        background-color: #a30000;
+    }
+
+.alert {
+    padding: 15px;
+    background-color: #f9edbe;
+    color: #856404;
+    border: 1px solid #ffeeba;
+    border-radius: 4px;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .table th {
+        background-color: #f2f2f2;
+    }
+
+    .table tbody tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }

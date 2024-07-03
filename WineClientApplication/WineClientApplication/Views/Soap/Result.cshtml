@@ -1,0 +1,47 @@
+﻿@model List<WineClientApplication.Models.Wine>
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<h2>Search Results</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Category</th>
+                <th>Type</th>
+                <th>Country</th>
+                <th>Vintage</th>
+                <th>Winery</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var wine in Model)
+            {
+                <tr>
+                    <td>@wine.Id</td>
+                    <td>@wine.Name</td>
+                    <td>@wine.Description</td>
+                    <td>@wine.Category</td>
+                    <td>@wine.Type</td>
+                    <td>@wine.Country</td>
+                    <td>@wine.Vintage</td>
+                    <td>@wine.Winery</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No results found.</p>
+}
+
+
+

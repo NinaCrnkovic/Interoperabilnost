@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nalazista>
+  <Nalaziste>
+    <Id>1</Id>
+    <Naziv>Salona</Naziv>
+    <Opis>Salona je antički grad smješten blizu Splita. Bio je važan grad u rimsko doba, a danas su tu vidljive brojne ruševine, uključujući ostatke foruma, termi, amfiteatra i kršćanske bazilike.</Opis>
+    <Lokacija>Solin</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>3</Id>
+    <Naziv>Hušnjakovo brdo</Naziv>
+    <Opis>Hušnjakovo brdo paleolitičko je nalazište na kojem su nađeni ostaci neandertalaca. Istraživanja započinju 23. kolovoza 1899. godine, kada je Dragutin Gorjanović-Kramberger na poziv fra Dominika Antolkovića posjetio nalazište na Hušnjakovom brdu, kako bi proučio ostatke kostiju i zubi koji su tamo pronađeni.</Opis>
+    <Lokacija>Krapina</Lokacija>
+    <Period>Paleolitik</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>5</Id>
+    <Naziv>Andautonija</Naziv>
+    <Opis>Povijesno – urbana aglomeracija rimskog municipija Andautonija nalazi se na području današnjeg sela Šćitarjevo i pokriva površinu od 40 ha. Razvoj rimskog grada očituje se kroz nekoliko građevinskih faza u razdoblju od 1. do 4. stoljeća.</Opis>
+    <Lokacija>Velika Gorica</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+</Nalazista>
+
+
+

@@ -1,0 +1,10 @@
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\obj\Debug\SOAPWebService.csproj.AssemblyReference.cache
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\obj\Debug\SOAPWebService.csproj.CoreCompileInputs.cache
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\bin\SOAPWebService.dll.config
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\bin\SOAPWebService.dll
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\bin\SOAPWebService.pdb
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\bin\CsvHelper.dll
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\bin\CsvHelper.xml
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\obj\Debug\SOAPWebService.csproj.CopyComplete
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\obj\Debug\SOAPWebService.dll
+C:\Users\38598\Documents\Faks\5. semestar 2003-2004\Interoperabilnost\Projekt\SOAPWebService\SOAPWebService\obj\Debug\SOAPWebService.pdb

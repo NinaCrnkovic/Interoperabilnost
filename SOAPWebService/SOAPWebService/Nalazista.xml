@@ -1,0 +1,51 @@
+<Nalazista>
+  <Nalaziste>
+    <Id>1</Id>
+    <Naziv>Salona</Naziv>
+    <Opis>Salona je antički grad smješten blizu Splita. Bio je važan grad u rimsko doba, a danas su tu vidljive brojne ruševine, uključujući ostatke foruma, termi, amfiteatra i kršćanske bazilike.</Opis>
+    <Lokacija>Solin</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>3</Id>
+    <Naziv>Hušnjakovo brdo</Naziv>
+    <Opis>Hušnjakovo brdo paleolitičko je nalazište na kojem su nađeni ostaci neandertalaca. Istraživanja započinju 23. kolovoza 1899. godine, kada je Dragutin Gorjanović-Kramberger na poziv fra Dominika Antolkovića posjetio nalazište na Hušnjakovom brdu, kako bi proučio ostatke kostiju i zubi koji su tamo pronađeni.</Opis>
+    <Lokacija>Krapina</Lokacija>
+    <Period>Paleolitik</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>5</Id>
+    <Naziv>Andautonija</Naziv>
+    <Opis>Povijesno – urbana aglomeracija rimskog municipija Andautonija nalazi se na području današnjeg sela Šćitarjevo i pokriva površinu od 40 ha. Razvoj rimskog grada očituje se kroz nekoliko građevinskih faza u razdoblju od 1. do 4. stoljeća.</Opis>
+    <Lokacija>Velika Gorica</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>15</Id>
+    <Naziv>Vela spila</Naziv>
+    <Opis>ela spila je špilja smještena iznad grada Vele Luke na otoku Korčuli. Smještena je na padinama brda Pinski rat, na nadmorskoj visini od oko 130 metara. </Opis>
+    <Lokacija>Vela Luka</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>16</Id>
+    <Naziv>Vučedol</Naziv>
+    <Opis>Vučedol je arheološki lokalitet iz neolitika. Nalazi se 5 km nizvodno od Vukovara, a otkrio ga je Josip Brunšmid. Najstariji nalazi, oni neolitički, predstavljaju razvijenu fazu starčevačke kulture. Nakon starčevačke kulture, oko 3500. pr. Kr., područja duž Dunava naseljava badenska kultura, koji su arheološki gledano, prva indoeuropska populacija koja prelazi na desnu obalu Dunava. Oko 3000. pr. Kr. pojavljuje se vučedolska kultura, kad u Vučedolu živi oko 2000 i 3000 stanovnika, te je bila riječ o jednom od najvažnijih centara toga doba.</Opis>
+    <Lokacija>Vukovar</Lokacija>
+    <Period>Neolitik</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>17</Id>
+    <Naziv>Špilja Vindija</Naziv>
+    <Opis>Vindija je špilja u klancu Velika Sutinska, kraj sela Donja Voća u Hrvatskom zagorju. Utvrđena je srednjepaleolitička moustérienska kultura, više kultura gornjega paleolitika, keramika iz više prapovijesnih razdoblja te nalazi iz antičkog doba. U špilji su 1974. godine pronađeni jedni od najboljih ostataka neandertalaca na svijetu.</Opis>
+    <Lokacija>Donja Voća</Lokacija>
+    <Period>Paleolitik</Period>
+  </Nalaziste>
+  <Nalaziste>
+    <Id>18</Id>
+    <Naziv>Verige</Naziv>
+    <Opis>Ostaci raskošne rimske ladanjske vile prostiru se duž uvale Verige na zapadnoj obali Velikog Brijuna. Sastojala se od više građevina za različite namjene.</Opis>
+    <Lokacija>Veliki Brijun</Lokacija>
+    <Period>Rimsko doba</Period>
+  </Nalaziste>
+</Nalazista>
